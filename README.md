@@ -8,4 +8,5 @@
 
 * [三星-有智能管理器的](https://github.com/lorcanluo/androidwhitelist/blob/master/sanxing/%E4%B8%89%E6%98%9F%EF%BC%88%E5%B8%A6%E6%99%BA%E8%83%BD%E7%AE%A1%E7%90%86%E5%99%A8%E7%9A%84%EF%BC%89%E5%A6%82%E4%BD%95%E6%B7%BB%E5%8A%A0%E7%99%BD%E5%90%8D%E5%8D%95.md)
 
+* [小米](https://github.com/lorcanluo/androidwhitelist/blob/master/xiaomi/%E5%B0%8F%E7%B1%B3%E6%80%8E%E4%B9%88%E6%8A%8A%E4%BD%A0%E7%9A%84App%E5%8A%A0%E5%85%A5%E7%99%BD%E5%90%8D%E5%8D%95.md)
 
