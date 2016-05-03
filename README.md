@@ -6,4 +6,6 @@
 
 * [魅族](https://github.com/lorcanluo/androidwhitelist/blob/master/meizhu/%E9%AD%85%E6%97%8F%E6%80%8E%E4%B9%88%E8%AE%BE%E7%BD%AE%E7%99%BD%E5%90%8D%E5%8D%95.md)
 
+* [三星-有智能管理器的](https://github.com/lorcanluo/androidwhitelist/blob/master/meizhu/%E9%AD%85%E6%97%8F%E6%80%8E%E4%B9%88%E8%AE%BE%E7%BD%AE%E7%99%BD%E5%90%8D%E5%8D%95.md)
+
 
