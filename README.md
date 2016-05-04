@@ -12,3 +12,5 @@
 
 * [锤子](https://github.com/lorcanluo/androidwhitelist/blob/master/st/%E9%94%A4%E5%AD%90%E6%80%8E%E4%B9%88%E6%8A%8AApp%E5%8A%A0%E5%85%A5%E7%99%BD%E5%90%8D%E5%8D%95.md)
 
+* [VIVO](https://github.com/lorcanluo/androidwhitelist/blob/master/vivo/ViVo%20%E6%80%8E%E4%B9%88%E6%8A%8AApp%E5%8A%A0%E5%85%A5%E7%99%BD%E5%90%8D%E5%8D%95.md)
+
